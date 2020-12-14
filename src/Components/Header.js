@@ -35,14 +35,14 @@ console.log(e.target.value)
               <NavLink className="first" to="/home">Home</NavLink>
             </li>
             <li className="other-links">
-              <NavLink to="/news">News</NavLink>
+            <NavLink to="/about"> <i className="circle">3</i>About</NavLink>
             </li>
             <li className="other-links">
               <NavLink to="/contact">Contact</NavLink>
             </li>
             <li className="other-links">
-              <div className="circle">3</div>
-              <NavLink to="/about">About</NavLink>
+            <NavLink to="/contact">Contact</NavLink>
+
             </li>
           </ul>
         </div>

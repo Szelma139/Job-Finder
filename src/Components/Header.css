@@ -25,7 +25,7 @@
   }
   
   .header-links {
-      width: 40%;
+      width: 46%;
       font-size: 1.2rem;
   }
 
@@ -101,12 +101,14 @@ input:focus {
 
 
 .circle {
-  width: 20px;
+  top: 2%;
+  left:68.5%;
+  position: absolute;
+  width: 15px;
   text-align: center;
   color:white;
   font-size: 0.5rem;
   border-radius: 50%;
-  display: relative;
   background-color: 1px solid #0fa47c;
   background-color:  #0fa47c;
 }
