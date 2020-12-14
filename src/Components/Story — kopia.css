@@ -1,0 +1,19 @@
+.story {
+  width: 800px;
+  height: 160px;
+  background-color: white;
+  border-radius: 15px;
+  display: inline-block;
+}
+
+.story-image {
+  width: 20%;
+  height: 100%;
+
+}
+
+.image {
+  border-radius: 8%; 
+  width: 100%;
+  margin: 15% 20px 15% 20px ;
+}

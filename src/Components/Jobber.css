@@ -1,0 +1,48 @@
+
+.mainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    height: 20vh;
+    font-size: 1.5rem;
+
+}
+
+.left {
+align-self: center;
+}
+
+.right {
+align-self: center;
+
+}
+
+
+.corben {
+  
+  }
+
+  .green {
+    color: #0fa47c;
+  }
+  
+
+  .black {
+
+ color: black;
+
+  }
+
+  .grey {
+
+    color: grey;
+  }
+
+  .bold-800 {
+    font-weight: 800;
+  }
+
+  input {
+      color: #128494;
+  }

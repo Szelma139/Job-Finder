@@ -1,0 +1,112 @@
+.header {
+
+    width: 100vw;
+    height: 8vh;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.header-main-container {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+  .logo {
+      font-size: 1.6rem;
+      display: flex;
+      align-self: center;
+      text-align: center;
+  }
+  
+  .header-links {
+      width: 40%;
+      font-size: 1.2rem;
+  }
+
+  ul {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    
+  }
+
+  .empty {
+      max-width: 20%;
+      min-width: 12%;
+  }
+
+  .header-left-container {
+      display: flex;
+      width: 45%;
+      align-items: center;
+      justify-content: space-evenly;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  .green {
+    color: #0fa47c;
+  }
+  
+.first {
+  color:  #0fa47c;
+}
+
+  a {
+      text-decoration: none;
+    
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+
+  .input {
+      background-color: white;
+      padding: 5px;
+      border-radius: 10px;
+    
+  }
+
+input {
+
+    height: 4vh;
+    border-radius: 20px;
+    border: 0;
+    text-align: center;
+    width: 15vw;
+
+}
+
+input:focus {
+    border: 0;
+    outline: none;
+}
+
+
+.circle {
+  width: 20px;
+  text-align: center;
+  color:white;
+  font-size: 0.5rem;
+  border-radius: 50%;
+  display: relative;
+  background-color: 1px solid #0fa47c;
+  background-color:  #0fa47c;
+}
